@@ -1,4 +1,4 @@
-## Yahallo
+## Nyahallo
 
 Just stupid programmer doing stupid thing with 🤍
 

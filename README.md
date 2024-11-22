@@ -2,8 +2,8 @@
 	<img src="https://api.statusbadges.me/badge/status/397211459651633166"/> <img src="https://komarev.com/ghpvc/?username=ShiroKazane&color=9963B3" alt="watching_count" /><br>
 	<br>
 	<div align="center">
-    <p style="font-size: 18px">Hi, my name<br><strong style="font-size: 28px">Shiro</strong></p>
-  </div>
+    		<p style="font-size: 18px">Hi, my name<br><strong style="font-size: 28px">Shiro</strong></p>
+  	</div>
 	<br>
 
 	19 y.o. Fully self-taught.

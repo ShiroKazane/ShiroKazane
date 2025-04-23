@@ -1,5 +1,5 @@
 <div align="center" class="head-me" style="display: flex; flex-flow: column wrap;">
-	<img src="https://api.statusbadges.me/badge/status/397211459651633166"/> <img src="https://komarev.com/ghpvc/?username=ShiroKazane&color=9963B3" alt="watching_count" /><br>
+	<img src="https://api.statusbadges.me/badge/status/397211459651633166?style=flat-square"/> <img src="https://komarev.com/ghpvc/?username=ShiroKazane&color=ff69b4&style=flat-square" alt="watching_count" /><br>
 	<br>
 	<div align="center">
     		<p style="font-size: 18px">Hi, my name<br><strong style="font-size: 28px">Shiro</strong></p>
@@ -74,15 +74,14 @@
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShiroKazane&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true" draggable="false">
+        <img align="center" src="https://delta-yuki.vercel.app/api?username=ShiroKazane&theme=catppuccin_mocha&show_icons=true&hide_border=true&locale=ja" draggable="false">
 		</td>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroKazane&theme=catppuccin_mocha&layout=compact&hide_border=true" draggable="false">
+        <img align="center" src="https://delta-yuki.vercel.app/api/top-langs/?username=ShiroKazane&theme=catppuccin_mocha&layout=compact&hide_border=true&locale=ja" draggable="false">
 		</td>
 	</tr>
 </table>
-
-<a href="http://www.github.com/ShiroKazane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroKazane&stroke=cdd6f4&background=1e1e2e&ring=94e2d5&fire=fab387&currStreakNum=cdd6f4&currStreakLabel=94e2d5&sideNums=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4&hide_border=true" /></a>
+<a href="http://www.github.com/ShiroKazane"><img src="https://alpha-yuki.vercel.app?user=ShiroKazane&theme=catppuccin-mocha&border_radius=0&locale=ja&border=45475A&stroke=CDD6F4&fire=FAB387&currStreakNum=CDD6F4" /></a>
 </details>
 
 this readme was made with 🤍 by <a href="https://github.com/nichind">nichind</a>

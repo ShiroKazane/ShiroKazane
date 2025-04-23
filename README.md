@@ -61,6 +61,7 @@
 <br>
 
 ![playing](https://api.statusbadges.me/badge/playing/397211459651633166)
+![intellij](https://api.statusbadges.me/badge/intellij/397211459651633166)
 ![vscode](https://api.statusbadges.me/badge/vscode/397211459651633166)
 
 </details>
